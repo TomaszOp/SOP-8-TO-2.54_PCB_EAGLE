@@ -1,1 +1,1 @@
-# SOP-8-TO-2.54_PCB_EAGLE
+# SOP-8 to raster 2.54 mm PCB EAGLE
